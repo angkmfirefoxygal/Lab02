@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 #define N 10001
 
@@ -22,4 +22,4 @@ int main() {
 	}
 
 	return 0;
-}
+}*/
